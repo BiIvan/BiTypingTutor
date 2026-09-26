@@ -1,3 +1,0 @@
-F:\msys64\ucrt64\bin\cmake.exe -E rm -f CMakeFiles\KeyboartdTreiner.dir/objects.a
-F:\msys64\mingw64\bin\ar.exe qc CMakeFiles\KeyboartdTreiner.dir/objects.a @CMakeFiles\KeyboartdTreiner.dir\objects1.rsp
-F:\msys64\mingw64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\KeyboartdTreiner.dir/objects.a -Wl,--no-whole-archive -o KeyboartdTreiner.exe -Wl,--out-implib,libKeyboartdTreiner.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\KeyboartdTreiner.dir\linkLibs.rsp
